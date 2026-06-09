@@ -1,8 +1,26 @@
-#    Anirudh T
+<div align="center">
 
-# 💫 About Me:
-I'm a passionate Computer Science student with a strong interest in full-stack web development, machine learning, problem-solving, and building impactful digital solutions. I enjoy working on real-world projects that combine creativity with functionality—whether it's designing intuitive user interfaces or developing intelligent systems using ML techniques. I'm currently focused on sharpening my skills in backend development, exploring scalable API design, and understanding how to integrate machine learning models into production environments. I'm eager to collaborate on innovative tech solutions and contribute to open-source communities. I’m also seeking guidance on deploying ML pipelines and working more efficiently with cloud services and APIs. Feel free to ask me about React, Node.js, MongoDB, or anything related to full-stack development.
+```
+ █████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗██████╗ ██╗  ██╗    ████████╗
+██╔══██╗████╗  ██║██║██╔══██╗██║   ██║██╔══██╗██║  ██║       ██╔══╝
+███████║██╔██╗ ██║██║██████╔╝██║   ██║██║  ██║███████║       ██║   
+██╔══██║██║╚██╗██║██║██╔══██╗██║   ██║██║  ██║██╔══██║       ██║   
+██║  ██║██║ ╚████║██║██║  ██║╚██████╔╝██████╔╝██║  ██║       ██║   
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝       ╚═╝   
+```
+
+### Full-Stack Developer · AI Integrations · Competitive Programmer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=MERN+Stack+Developer+%7C+6%2B+Production+Apps+Shipped+%F0%9F%9A%80;LeetCode+Top+5.16%25+Globally+%7C+1841+Rating+%F0%9F%94%A5;Real-Time+Systems+%7C+WebSockets+%7C+Redis;Turning+AI+%2B+Web+into+real+products+%F0%9F%92%A1" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236366F1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudh200503@gmail.com)
+
+</div>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
